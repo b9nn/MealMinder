@@ -1,0 +1,45 @@
+# Environment variables
+.env
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+Scripts/
+Lib/
+Include/
+bin/
+
+# Django stuff
+db.sqlite3
+*.log
+
+# Python packaging
+*.egg-info/
+.eggs/
+
+# Coverage / testing
+.coverage
+htmlcov/
+pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Node.js (frontend)
+node_modules/
+dist/
+build/
+
+build/
